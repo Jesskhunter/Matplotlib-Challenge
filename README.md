@@ -1,2 +1,2 @@
 # Matplotlib-Challenge
-HW5 Matplotlib Challenge
+HW5 Matplotlib - The Power of Plots
